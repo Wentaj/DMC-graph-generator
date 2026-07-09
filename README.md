@@ -1,6 +1,6 @@
 # Automatic DMC Graph Creator
 
-Python app that allows users to create graphs from csv,xls/xlsx files.
+Python app that allows users to create dynamic graphs from csv,xls/xlsx files using Plotly Express.
 ## Features
 -Upload datafile
 -Pandas will automatically parses through data 
